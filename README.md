@@ -1,4 +1,4 @@
-# Hi, i'm Grasi Eduarda 💻👋🏼
+# Hi, i'm Grasi Eduarda <img align="center" alt="Grasi-Flutter" height="70" width="70" src="https://c.tenor.com/akjDxmuk7o4AAAAC/cute-cat.gif">
 
 - Systems analysis and development student 💻
 - From São Paulo, Brazil 🌴
