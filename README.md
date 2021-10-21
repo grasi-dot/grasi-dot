@@ -1,6 +1,6 @@
 # Hi, i'm Grasi Eduarda <img align="center" alt="Grasi-Flutter" height="70" width="80" src="https://media2.giphy.com/media/3oKIPyD5zyOZD0SGM8/giphy.gif?cid=790b7611259ae4872ed307fef1fe9b322828cc61f6170ddf&rid=giphy.gif&ct=s">
 
-- Systems analysis and development student 💻
+- Systems Analysis and Development Student 💻
 - From São Paulo, Brazil 🌴
 - Stag in Information Technology 👩🏼‍💻💜
 - I am currently studying Ruby and Ruby on Rails 📚
