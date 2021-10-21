@@ -2,8 +2,8 @@
 
 - Systems Analysis and Development Student 💻
 - From São Paulo, Brazil 🌴
-- Stag in Information Technology 👩🏼‍💻💜
-- I am currently studying Ruby and Ruby on Rails 📚
+- Software development stage👩🏼‍💻💜
+- I am currently studying Ruby and Javascript 📚
 - Pronoun she/ela/dela 👩🏼‍🎓
  <div>
   <a href="https://github.com/grasi-dot">
