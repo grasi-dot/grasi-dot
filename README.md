@@ -3,7 +3,7 @@
 - Systems Analysis and Development Student 💻
 - From São Paulo, Brazil 🌴
 - Software development stage👩🏼‍💻💜
-- I am currently studying Ruby and Javascript 📚
+- I am currently studying Ruby📚
 - Pronoun she/ela/dela 👩🏼‍🎓
  <div>
   <a href="https://github.com/grasi-dot">
