@@ -4,7 +4,7 @@
 - From São Paulo, Brazil 🌴
 - Software development stage👩🏼‍💻💜
 - I am currently studying Ruby📚
-- Pronoun she/ela/dela 👩🏼‍🎓
+- Pronoun she/her/ela/dela 👩🏼‍🎓
  <div>
   <a href="https://github.com/grasi-dot">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grasi-dot&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
