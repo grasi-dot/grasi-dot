@@ -16,7 +16,6 @@
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg">
    <img align="center" alt="Grasi-Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">  
   <img align="center" alt="Grasi-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Grasi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
  
    ##
