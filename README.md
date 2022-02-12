@@ -4,6 +4,49 @@
   </a>
 </h1>
 
+<p align='center'>
+  <a href="https://www.instagram.com/grasi_eduarda_/">
+     <img height="40" src="https://cdn-user-icons.flaticon.com/64351/64351123/1644642048522.svg?token=exp=1644642949~hmac=54ffeb311079598be1c09a9ddd7bcea7"  alt="instagram" style="vertical-align:top target="_blank"">
+ </a> 
+  <a href="https://www.facebook.com/profile.php?id=100009196117451">
+     <img height="40" src="https://cdn-user-icons.flaticon.com/64351/64351123/1644641914528.svg?token=exp=1644642815~hmac=8f99cda8a50349fb4351c9441955b7d3" alt="facebook" style="vertical-align:top;">
+ </a>  
+
+ <a href="https://twitter.com/GrasielaEduard1">
+     <img height="40" src="https://cdn-user-icons.flaticon.com/64351/64351123/1644641469152.svg?token=exp=1644642425~hmac=34ad6da879c8c926b8f114aa05dbd7dc" style="vertical-align:top;">
+ </a> 
+
+ <a href="https://www.linkedin.com/in/grasi-eduardaads/">
+     <img height="40" src="https://cdn-user-icons.flaticon.com/64351/64351123/1644641500815.svg?token=exp=1644642402~hmac=4d9de2867632232777d06de3ad344f95"  alt="instagram" style="vertical-align:top;">
+ </a> 
+   
+ </p>
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Systems Analysis and Development Student 💻
 - From São Paulo, Brazil 🌴
@@ -28,25 +71,9 @@
  
  
    ##
+  
+  
+  
+  
  
-<div>
- <a href="https://www.instagram.com/grasi_eduarda_/">
-     <img align="left" width="50px" src="https://cdn-icons.flaticon.com/png/128/3955/premium/3955024.png?token=exp=1644616260~hmac=2f73fe5b615340e3b7e867341b09377f"  alt="instagram" style="vertical-align:top target="_blank"">
- </a> 
 
- <a href="https://www.facebook.com/profile.php?id=100009196117451">
-     <img align="left" width="50px" src="https://cdn-icons-png.flaticon.com/128/145/145802.png" alt="facebook" style="vertical-align:top;">
- </a>  
-
- <a href="https://twitter.com/GrasielaEduard1">
-     <img align="left" width="50px" src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494477.png?token=exp=1644616260~hmac=1aea853aa270f377f10bafb425a637ac" style="vertical-align:top;">
- </a> 
-
- <a href="https://www.linkedin.com/in/grasi-eduardaads/">
-     <img align="left" width="50px" src="https://cdn-icons.flaticon.com/png/128/4494/premium/4494497.png?token=exp=1644616260~hmac=66379a37254c08d04644f463acec22ac"  alt="instagram" style="vertical-align:top;">
- </a> 
-
- <a href="mailto:grasieduarda775@gmail.com">
-     <img align="left" width="50px" src="https://cdn-icons.flaticon.com/png/128/720/premium/720277.png?token=exp=1644617318~hmac=63958cd86c125042e47bcb959ceecef1"  alt="instagram" style="vertical-align:top;">
- </a> 
-</div>
