@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%239F3CFF&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 - Systems Analysis and Development Student 💻
 - From São Paulo, Brazil 🌴
@@ -15,13 +14,11 @@
 
 
  <a href="https://github.com/grasi-dot">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grasi-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grasi-dot&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grasi-dot&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grasi-dot&layout=compact&langs_count=7&theme=midnight-purple"/>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=grasi-dot&theme=midnight-purple"/>
 
- 
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grasi-dot&theme=tokyonight)](https://git.io/streak-stats)
- 
+
  
  
  
