@@ -1,4 +1,4 @@
-# Hi, i'm Grasi Eduarda <img align="center" alt="Grasi-Flutter" height="70" width="80" src="https://media2.giphy.com/media/3oKIPyD5zyOZD0SGM8/giphy.gif?cid=790b7611259ae4872ed307fef1fe9b322828cc61f6170ddf&rid=giphy.gif&ct=s">
+<h1 align="center">Hi 👋, I'm Grasi Eduarda</h1> <img align="center" alt="Grasi-Flutter" height="70" width="80" src="https://media2.giphy.com/media/3oKIPyD5zyOZD0SGM8/giphy.gif?cid=790b7611259ae4872ed307fef1fe9b322828cc61f6170ddf&rid=giphy.gif&ct=s">
 
 - Systems Analysis and Development Student 💻
 - From São Paulo, Brazil 🌴
@@ -9,19 +9,12 @@
 
 
  <a href="https://github.com/grasi-dot">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grasi-dot&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grasi-dot&layout=compact&langs_count=7&theme=outrun"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grasi-dot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grasi-dot&layout=compact&langs_count=7&theme=tokyonight"/>
 
  
  
- 
- 
- 
- 
- 
- 
- 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grasi-dot)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=grasi-dot&theme=tokyonight)](https://git.io/streak-stats)
  
  
  
