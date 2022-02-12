@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Grasi Eduarda</h1> <img align="center" alt="Grasi-Flutter" height="70" width="80" src="https://media2.giphy.com/media/3oKIPyD5zyOZD0SGM8/giphy.gif?cid=790b7611259ae4872ed307fef1fe9b322828cc61f6170ddf&rid=giphy.gif&ct=s">
+<h1 align="center">
+  <a href="https://github.com/grasi-dot">
+    <img src="https://readme-typing-svg.herokuapp.com/?&color=%239F3CFF&lines=Hello,+There!+👋;I'm+Grasi+Eduarda+...;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%239F3CFF&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
 - Systems Analysis and Development Student 💻
 - From São Paulo, Brazil 🌴
