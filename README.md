@@ -24,15 +24,19 @@
  
  ##
  
-<p align='center'>
-  - Systems Analysis and Development Student 💻
-  - From São Paulo, Brazil 🌴
-  - Software development stage👩🏼‍💻💜
-  - I am currently studying Ruby📚
-  - Pronoun she/her/ela/dela 👩🏼‍🎓
+ <br>
+<p align="center">
+    Systems Analysis and Development Student 💻
+  <br>
+    From São Paulo, Brazil 🌴
+  <br>
+    Software development stage👩🏼‍💻💜
+  <br>
+    I am currently studying Ruby📚
+  <br>
+    Pronoun she/her/ela/dela 👩🏼‍🎓
+  <br>
 </p>
-
-
 
 <p align='center'>
  <a href="https://github.com/grasi-dot">
@@ -46,18 +50,9 @@
  <a href="https://github.com/grasi-dot">
  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=grasi-dot&theme=midnight-purple"/>
  </p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=grasi-dot&theme=rogue&bg_color=20232a&hide_border=true" width="100%"/>
  
  
- 
- 
- 
- 
- 
- 
-   ##
-  
-  
-  
-  
  
 
+   ##
