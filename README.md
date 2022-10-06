@@ -24,28 +24,25 @@
  
  ##
  
- <br>
-<p align="center">
-    Systems Analysis and Development Student 💻
-  <br>
-    From São Paulo, Brazil 🌴
-  <br>
-    Software development stage👩🏼‍💻💜
-  <br>
-    I am currently studying Ruby📚
-  <br>
-    Pronoun she/her/ela/dela 👩🏼‍🎓
-  <br>
-</p>
+ 
+<br>
+  Systems Analysis and Development Student 💻
+<br>
+  From São Paulo, Brazil 🌴
+<br>
+  Software development stage👩🏼‍💻💜
+<br>
+  I am currently studying Ruby📚
+<br>
+  Pronoun she/her/ela/dela 👩🏼‍🎓
+<br>
+<br>
 
-<p align='center'>
- <a href="https://github.com/grasi-dot">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grasi-dot&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
- </p>
-  <p align='center'>
- <a href="https://github.com/grasi-dot">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grasi-dot&layout=compact&langs_count=7&theme=midnight-purple"/>
- </p>
-    <p align='center'>
- <a href="https://github.com/grasi-dot">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=grasi-dot&theme=midnight-purple"/>
+<a href="https://github.com/grasi-dot">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grasi-dot&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+
+<a href="https://github.com/grasi-dot">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grasi-dot&layout=compact&langs_count=7&theme=midnight-purple"/>
+
+<a href="https://github.com/grasi-dot">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=grasi-dot&theme=midnight-purple"/>
