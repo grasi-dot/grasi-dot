@@ -30,7 +30,7 @@
 <br>
   From São Paulo, Brazil 🌴
 <br>
-  Software development stage👩🏼‍💻💜
+  Software development jr👩🏼‍💻💜
 <br>
   I am currently studying Ruby📚
 <br>
