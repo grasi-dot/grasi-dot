@@ -26,15 +26,15 @@
  
  
 <br>
-  Systems Analysis and Development Student 💻
+  - Systems Analysis and Development Student 💻
 <br>
-  From São Paulo, Brazil 🌴
+  - From São Paulo, Brazil 🌴
 <br>
-  Software development jr👩🏼‍💻💜
+  - Software development jr👩🏼‍💻💜
 <br>
-  I am currently studying Ruby📚
+  - I am currently studying Ruby📚
 <br>
-  Pronoun she/her/ela/dela 👩🏼‍🎓
+  - Pronoun she/her/ela/dela 👩🏼‍🎓
 <br>
 <br>
 
