@@ -34,7 +34,7 @@
 <br>
   - I am currently studying Ruby📚
 <br>
-  - Pronoun she/her/ela/dela 👩🏼‍🎓
+  - Pronoun she/her 👩🏼‍🎓
 <br>
 <br>
 
